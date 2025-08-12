@@ -8,9 +8,9 @@
 
 ## 📌 About Me
 -  Seeking opportunities in **Data Analyst**, **Software Developer**, and **Consultant** roles  
--  Skilled in **C, C++, Python, Java, HTML, CSS, JavaScript, DSA**  
+-  Skilled in **C, C++, Python, Java, HTML, CSS, DSA**  
 -  Exploring **Data Analytics** (Pandas, Matplotlib, Seaborn, Power BI)  
--  Preparing for **Google & Top Company Interviews**  
+-  Preparing for **Top Company Interviews**  
 -  Currently learning **.NET** and sharpening problem-solving skills  
 
 ---
