@@ -34,6 +34,8 @@ A web application to compare product prices across different platforms.
 ### 🔹 [DSA_Prep](https://github.com/madhuraparab13/DSA_Prep)
 Topic-wise DSA problems and solutions.
 
+### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
+An application that helps in management of Patients, doctors, admin in a easy and comfortable way.
 ---
 
 ## 🏢 Organizations
