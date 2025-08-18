@@ -17,6 +17,12 @@
 
 ## 🗂 My GitHub Projects
 
+### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
+A console based application that helps in management of Patients, doctors, admin in a easy and comfortable way.
+
+### 🔹 [Price-Comparison-Website](https://github.com/madhuraparab13/Price-Comparison-Website)
+A web application to compare product prices across different platforms.
+
 ### 🔹 [DataAnalyst](https://github.com/madhuraparab13/DataAnalyst)
 Mini-projects in data analytics:
 - COVID-19 Analysis
@@ -27,12 +33,6 @@ Mini-projects in data analytics:
 
 ### 🔹 [Product_Sales_Analysis](https://github.com/madhuraparab13/Product_Sales_Analysis)
 Analysis of product sales data to identify trends, patterns, and business insights.
-
-### 🔹 [Price-Comparison-Website](https://github.com/madhuraparab13/Price-Comparison-Website)
-A web application to compare product prices across different platforms.
-
-### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
-A console based application that helps in management of Patients, doctors, admin in a easy and comfortable way.
 
 ### 🔹 [DSA_Prep](https://github.com/madhuraparab13/DSA_Prep)
 Topic-wise DSA problems and solutions.
