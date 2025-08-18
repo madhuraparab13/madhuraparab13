@@ -31,11 +31,12 @@ Analysis of product sales data to identify trends, patterns, and business insigh
 ### 🔹 [Price-Comparison-Website](https://github.com/madhuraparab13/Price-Comparison-Website)
 A web application to compare product prices across different platforms.
 
+### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
+A console based application that helps in management of Patients, doctors, admin in a easy and comfortable way.
+
 ### 🔹 [DSA_Prep](https://github.com/madhuraparab13/DSA_Prep)
 Topic-wise DSA problems and solutions.
 
-### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
-An application that helps in management of Patients, doctors, admin in a easy and comfortable way.
 ---
 
 ## 🏢 Organizations
