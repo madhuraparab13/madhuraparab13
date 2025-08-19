@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Madhura Mahesh Parab  
 
 🎓 **Recent B.Tech CSE (Artificial Intelligence) Graduate**  
-💡 Passionate about **Data Analytics, Software Development, and Problem-Solving**  
+💡 Passionate about **Software Development, Data Analytics and Database Management**  
 🚀 Exploring AI, Data Science, Web Technologies, and Competitive Programming  
 
 ---
