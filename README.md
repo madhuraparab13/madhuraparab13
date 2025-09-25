@@ -19,6 +19,9 @@
 ### 🔹 [E-Healthcare_Management](https://github.com/madhuraparab13/E-Healthcare_Management)
 A console based application that helps in management of Patients, doctors, admin in a easy and comfortable way.
 
+### 🔹 [Voting_Application](https://github.com/madhuraparab13/Voting_Application)
+A React-based voting application that enables secure, user-friendly voting and real-time result tracking.
+
 ### 🔹 [Price-Comparison-Website](https://github.com/madhuraparab13/Price-Comparison-Website)
 A web application to compare product prices across different platforms.
 
