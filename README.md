@@ -2,15 +2,14 @@
 
 🎓 **Recent B.Tech CSE (Artificial Intelligence) Graduate**  
 💡 Passionate about **Software Development, Data Analytics and Database Management**  
-🚀 Exploring AI, Data Science, Web Technologies, and Competitive Programming  
+🚀 Exploring AI, Data Science, JavaScript and Competitive Programming  
 
 ---
 
 ## 📌 About Me
--  Seeking opportunities in **Data Analyst**, **Software Developer**, and **Consultant** roles  
--  Skilled in **C, C++, Python, Java, HTML, CSS, DSA**  
--  Exploring **Data Analytics** (Pandas, Matplotlib, Seaborn, Power BI)  
--  Preparing for **Top Company Interviews**  
+-  Seeking opportunities in  **Software Developer**, **Database Management** and **ML-Based** roles  
+-  Skilled in **C, C++, Python, Java, DSA and Blockchain**  
+-  Exploring **Data Analytics** (Pandas, Matplotlib, Seaborn, Power BI) and **JavaScript**
 -  Currently learning **.NET** and sharpening problem-solving skills  
 
 ---
