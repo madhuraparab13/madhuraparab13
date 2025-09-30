@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Madhura Mahesh Parab  
 
 🎓 **Recent B.Tech CSE (Artificial Intelligence) Graduate**  
-💡 Passionate about **Software Development, Data Analytics and Database Management**  
-🚀 Exploring AI, Data Science, JavaScript and Competitive Programming  
+💡 Passionate about **ML, Data Analysis and Database Management**  
+🚀 Exploring AI, Data Science and Competitive Programming  
 
 ---
 
 ## 📌 About Me
--  Seeking opportunities in  **Software Developer**, **Database Management** and **ML-Based** roles  
+-  Seeking opportunities in  **Data Analysis**, **Database Management** and **ML-Based** roles  
 -  Skilled in **C, C++, Python, Java, DSA and Blockchain**  
--  Exploring **Data Analytics** (Pandas, Matplotlib, Seaborn, Power BI) and **JavaScript**
+-  Exploring **Data Analysis** (Pandas, Matplotlib, Seaborn, Power BI) and **JavaScript**
 -  Currently learning **.NET** and sharpening problem-solving skills  
 
 ---
@@ -25,7 +25,7 @@ A React-based voting application that enables secure, user-friendly voting and r
 ### 🔹 [Price-Comparison-Website](https://github.com/madhuraparab13/Price-Comparison-Website)
 A web application to compare product prices across different platforms.
 
-### 🔹 [DataAnalyst](https://github.com/madhuraparab13/DataAnalyst)
+### 🔹 [DataAnalysis](https://github.com/madhuraparab13/DataAnalyst)
 Mini-projects in data analytics:
 - COVID-19 Analysis
 - Flats in Cracow Real Estate Analysis
